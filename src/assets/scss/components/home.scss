@@ -1,0 +1,16 @@
+.home-component{
+    margin-bottom: 32px;
+}
+swiper-container{
+    height: 100px;
+    width: 100%;
+    direction: ltr;
+    border: 1px solid #b7b7b7;
+    margin-top: 24px;
+    cursor: grab;
+    swiper-slide{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
